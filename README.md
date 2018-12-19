@@ -6,3 +6,7 @@ This is my first repo!
 |Is it | This much easy?|
 |:-----:|:---------:|
 It seems| So
+
+## Links
+
+You may see my CV [here](/files/cv.md)
