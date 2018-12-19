@@ -9,4 +9,4 @@ It seems| So
 
 ## Links
 
-You may see my CV [here](/Files/cv.md)
+You may see my CV [here](https://github.com/bidgoli/Hello-World/blob/master/Files/CV.md)
