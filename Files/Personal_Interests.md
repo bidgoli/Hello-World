@@ -12,6 +12,13 @@
 |[Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)|[Venus in Fur](https://www.imdb.com/title/tt2406252/) - [Bitter Moon](https://www.imdb.com/title/tt0104779/)-[China Town](https://www.imdb.com/title/tt0071315/)|
 |[Asghar Farhadi](https://en.wikipedia.org/wiki/Asghar_Farhadi)|[A Seperation](https://www.imdb.com/title/tt1832382/) - [About Eli](https://www.imdb.com/title/tt1360860/) - [The Salesman](https://www.imdb.com/title/tt5186714/) - [The Past](https://www.imdb.com/title/tt2404461/)|
 
+## Books
+
+|Writer|Title|
+|:-----:|:-----:|
+|[Irvin D. Yalom](https://en.wikipedia.org/wiki/Irvin_D._Yalom)|[The Schopenhauer Cure](https://www.goodreads.com/book/show/19508.The_Schopenhauer_Cure) - [When Nietzsche Wept](https://www.goodreads.com/book/show/21031.When_Nietzsche_Wept)|
+|[Alain De Botton](https://en.wikipedia.org/wiki/Alain_de_Botton)|[The Foundation of Love: A Man's Story](https://www.bookdepository.com/Foundation-Love-Alain-D-Botton/9788954618199)|
+
 
 
 
