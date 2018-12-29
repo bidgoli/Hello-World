@@ -1,12 +1,8 @@
 # Hello-World
-This is my first repo!
+This is repo contains just my personal information!
 
-## Table!
-
-|Is it | This much easy?|
-|:-----:|:---------:|
-It seems| So
 
 ## Links
 
 You may see my CV [here](Files/CV.md)
+You may see my personal interests [here](/Files/Personal interest.md)
