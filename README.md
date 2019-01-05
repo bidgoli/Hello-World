@@ -9,6 +9,4 @@ I'm currently:
 
 ## Links
 
-You may see my CV [here](Files/CV.md)
-
-You may see my Personal Interests [here](Files/Personal_Interests.md)
+You may see my CV [here](Files/CV.md) and my Personal Interests [here](Files/Personal_Interests.md)
