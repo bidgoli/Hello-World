@@ -21,6 +21,13 @@
 |[Alain De Botton](https://en.wikipedia.org/wiki/Alain_de_Botton)|[The Foundation of Love: A Man's Story](https://www.bookdepository.com/Foundation-Love-Alain-D-Botton/9788954618199)|
 |[Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera)|[The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being)|
 
+## Hobbies
+
+- Music
+- Hiking
+- Video Editing
+- [Couchsurfing!](https://www.couchsurfing.com/people/mr-bd)
+
 
 
 
