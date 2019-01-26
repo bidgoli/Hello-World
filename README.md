@@ -3,7 +3,7 @@ I am a third year Ph.D student at [IPM](http://ipm.ir/) under supervision of [Om
 
 I'm currently:
 - Working on a percolation problem
-- Reading 'a Man Called Ove'
+- Reading 'La Folle Allure' by Christian Bobin
 - Learning Machine Learning!
 
 
