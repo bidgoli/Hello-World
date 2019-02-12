@@ -3,7 +3,7 @@ I am a third year Ph.D student at [IPM](http://ipm.ir/) under supervision of [Om
 
 I'm currently:
 - Working on a percolation problem
-- Reading 'La Folle Allure' by Christian Bobin
+- Reading 'The Spinoza Problem: A Novel' by Irvin D. Yalom
 - Learning Machine Learning!
 
 
