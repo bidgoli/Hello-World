@@ -59,5 +59,7 @@
 
 ## Publications
 
-- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie, On K_{2,t}-bootstrap percolation, submitted to Discrete Mathematics
+- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie, On K_{2,t}-bootstrap percolation. (submitted)
+- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie. Minimum percolating sets in bootstrap
+percolation on the Hamming graph. (Pre-print)
 
