@@ -2,8 +2,9 @@
 I am a third year Ph.D student at [IPM](http://ipm.ir/) under supervision of [Omid Etesami](http://math.ipm.ir/~etesami/) and [Behruz Tayfeh-Rezaie](http://math.ipm.ac.ir/~tayfeh-r/). My field of study is [Probabilistic Combinatoric](https://en.wikipedia.org/wiki/Probabilistic_method).
 
 I'm currently:
+- Researching in Radboud university
 - Working on a percolation problem
-- Reading 'Pride and Prejudice' by Jane Austen
+- Reading 'Seeing' by Jose Saramago
 - Learning Machine Learning!
 
 
