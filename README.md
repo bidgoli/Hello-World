@@ -7,6 +7,7 @@ I'm currently:
 - Working on a percolation problem
 - Reading 'Seeing' by Jose Saramago
 - Learning Machine Learning!
+- Preparing for my talk in ETH Zurich
 
 
 ## Links
