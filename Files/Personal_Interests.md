@@ -21,6 +21,7 @@
 |[Alain De Botton](https://en.wikipedia.org/wiki/Alain_de_Botton)|[The Foundation of Love: A Man's Story](https://www.bookdepository.com/Foundation-Love-Alain-D-Botton/9788954618199)|
 |[Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera)|[The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being) - [Loughable Loves](https://www.goodreads.com/book/show/26101.Laughable_Loves)|
 |[Christian Bobin](https://en.wikipedia.org/wiki/Christian_Bobin)|[La Folle Allure](https://www.goodreads.com/book/show/58200.La_folle_allure?rating=1&utm_medium=api&utm_source=book_widget)|
+|[José Saramago](https://en.wikipedia.org/wiki/Jos%C3%A9_Saramago)|[Blindness](https://en.wikipedia.org/wiki/Blindness_(novel))|
 
 ## Hobbies
 
