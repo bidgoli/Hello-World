@@ -5,7 +5,7 @@ Nowadays, I'm visiting Prof. [Ross Kang](https://www.math.ru.nl/~rkang/) at [Rad
 I'm currently:
 
 - Working on a percolation problem
-- Reading '[Religion for Atheists: A Non-Believer's Guide to the Uses of Religion](https://www.alaindebotton.com/religion/)' by Alain de Botton
+- Reading '[Identity](https://www.goodreads.com/book/show/28635.Identity)' by Milan Kundera
 - Learning Machine Learning!
 
 
