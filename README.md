@@ -5,7 +5,7 @@ Nowadays, I'm visiting Prof. [Ross Kang](https://www.math.ru.nl/~rkang/) at [Rad
 I'm currently:
 
 - Working on a percolation problem
-- Reading '[Identity](https://www.goodreads.com/book/show/28635.Identity)' by Milan Kundera
+- Reading '[Life is Elsewhere](https://en.wikipedia.org/wiki/Life_Is_Elsewhere)' by [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera)
 - Learning Machine Learning!
 
 
