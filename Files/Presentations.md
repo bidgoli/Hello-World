@@ -1,7 +1,7 @@
 My Presentations
 --------
 - [Se7en Days Walking](Wunderman%20Thompson%20Commerce.ppsx), Wunderman Thompson Commerece, Oct 2019
-- [Bootstrap Percolation on the Hamming Graphs](ETH.ppsx), ETH University, Jul 2019
+- [Bootstrap Percolation on the Hamming Graphs](ETH.ppsx), ETH University, Jul 2019 ([Geogebra files](ETH_Geogebra.zip))
 - [On the K_{2,t} Bootstrap Percolation](Original_copy.png), Masaryk University, Jun 2019
 - [Bootstrap percolation on the Hamming torus](https://prezi.com/p/czc2ihprvwbl/bp_ham/), IPM, Apr 2019
 - [Extremal and Probabilistic Graph Bootstrap Percolation](Proposal_Slides.ppsx), IPM, Nov 2018
