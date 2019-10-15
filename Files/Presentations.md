@@ -4,8 +4,8 @@ My Presentations
 - Bootstrap Percolation on the Hamming Graphs, ETH University, Jul 2019
 - On the K_{2,t} Bootstrap Percolation, Masaryk University, Jun 2019
 - [Bootstrap percolation on the Hamming torus](https://prezi.com/p/czc2ihprvwbl/bp_ham/), IPM, Apr 2019
-- [Extremal and Probabilistic Graph Bootstrap Percolation](/Proposal_Slides.ppsx), IPM, Nov 2018
-- Crossing Number, Shahid Beheshti University, Jan 2017
+- [Extremal and Probabilistic Graph Bootstrap Percolation](Proposal_Slides.ppsx), IPM, Nov 2018
+- [Crossing Number](Crossing_Number.ppsx), Shahid Beheshti University, Jan 2017
 - Chernoff  Bounds, IPM, Dec 2016
 - Fast  Mojette  Transform   for  Discrete  Tomography, Shahid Beheshti University, Apr 2013
 - Using codebooks of fragmented connected-component contours in forensic and historic writer identiﬁcation, Shahid Beheshti University, Feb 2013
