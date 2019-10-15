@@ -50,6 +50,8 @@
 - Python
 - MATLAB
 - Java
+- Javascript
+- C#/C++
 - SQL
 
 ## Languages
@@ -60,6 +62,6 @@
 ## Publications
 
 - M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie, On K_{2,t}-bootstrap percolation. (submitted)
-- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie. Minimum percolating sets in bootstrap
-percolation on the Hamming graph. (Pre-print)
+- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie, Percolating sets in bootstrap percolation on the Hamming graphs. (submitted)
+- M.R. Bidgoli, A. Mohammadian, B. Tayfeh-Rezaie, M.E. Zhukovskii, Weak saturation in random graphs. (Preprint)
 
