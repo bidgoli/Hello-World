@@ -3,10 +3,10 @@ My Presentations
 - [Se7en Days Walking](Wunderman%20Thompson%20Commerce.ppsx), Wunderman Thompson Commerece, Oct 2019
 - [Bootstrap Percolation on the Hamming Graphs](ETH.ppsx), ETH University, Jul 2019 ([Geogebra files](ETH_Geogebra.zip))
 - [On the K_{2,t} Bootstrap Percolation](Original_copy.png), Masaryk University, Jun 2019
-- [Bootstrap percolation on the Hamming torus](https://prezi.com/p/czc2ihprvwbl/bp_ham/), IPM, Apr 2019
+- [Bootstrap Percolation on the Hamming Torus](https://prezi.com/p/czc2ihprvwbl/bp_ham/), IPM, Apr 2019
 - [Extremal and Probabilistic Graph Bootstrap Percolation](Proposal_Slides.ppsx), IPM, Nov 2018
 - [Crossing Number](Crossing_Number.ppsx), Shahid Beheshti University, Jan 2017
 - [Chernoff  Bounds](Chernoff.ppsx), IPM, Dec 2016
-- [Using codebooks of fragmented connected-component contours in forensic and historic writer identiﬁcation](DIP.ppsx), Shahid Beheshti University, Jan 2014
+- [Using Codebooks of Fragmented Connected-component Contours in Forensic and Historic Writer Identiﬁcation](DIP.ppsx), Shahid Beheshti University, Jan 2014
 - [Fast  Mojette  Transform   for  Discrete  Tomography](Mojette.ppsx), Shahid Beheshti University, Apr 2013
 - [Covariance Matrix Adaptation for Multi-objective Optimization](EC.ppsx), Shahid Beheshti University, Dec 2012
