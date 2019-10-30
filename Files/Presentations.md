@@ -7,6 +7,6 @@ My Presentations
 - [Extremal and Probabilistic Graph Bootstrap Percolation](Proposal_Slides.ppsx), IPM, Nov 2018
 - [Crossing Number](Crossing_Number.ppsx), Shahid Beheshti University, Jan 2017
 - [Chernoff  Bounds](Chernoff.ppsx), IPM, Dec 2016
-- Fast  Mojette  Transform   for  Discrete  Tomography, Shahid Beheshti University, Apr 2013
-- Using codebooks of fragmented connected-component contours in forensic and historic writer identiﬁcation, Shahid Beheshti University, Feb 2013
-- Covariance Matrix Adaptation for Multi-objective Optimization, Shahid Beheshti University, Dec 2012
+- [Using codebooks of fragmented connected-component contours in forensic and historic writer identiﬁcation](DIP.ppsx), Shahid Beheshti University, Jan 2014
+- [Fast  Mojette  Transform   for  Discrete  Tomography](Mojette.ppsx), Shahid Beheshti University, Apr 2013
+- [Covariance Matrix Adaptation for Multi-objective Optimization](EC.ppsx), Shahid Beheshti University, Dec 2012
