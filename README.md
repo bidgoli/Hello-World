@@ -6,7 +6,7 @@ I'm currently:
 
 - Finding Adam in growing networks!
 - Working on a percolation problem
-- Reading '[Life is Elsewhere](https://en.wikipedia.org/wiki/Life_Is_Elsewhere)' by [Milan Kundera](https://en.wikipedia.org/wiki/Milan_Kundera)
+- Reading '[The Dark Side of the Light Chasers](https://medium.com/be-yourself/the-dark-side-of-the-light-chasers-2b3485613f1b)' by [Debbie Ford](https://en.wikipedia.org/wiki/Debbie_Ford)
 - Learning Machine Learning!
 
 
